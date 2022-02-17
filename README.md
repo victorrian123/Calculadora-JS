@@ -1,2 +1,2 @@
 # Calculadora-JS
-Calculadora feita em HTML, CSS e Java Script.
+Calculadora feita em HTML, CSS e JavaScript.
